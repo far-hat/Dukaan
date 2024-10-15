@@ -1,0 +1,19 @@
+{
+  "name": "chinar",
+  "version": "1.0.0",
+  "description": "an e-commerce project app for learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chinar",
+    "e-com"
+  ],
+  "author": "aaminah farhat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-openid-connect": "^2.17.1"
+  }
+}
